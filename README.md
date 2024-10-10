@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **angular, react and .net core**
 
-- 📫 How to reach me **harsh.kadivar@gmail.com**
+- 📫 How to reach me **harsh.kadivar008@gmail.com**
 
 - 📄 Know about my experiences
 [https://docs.google.com/document/d/1mRwNgx18xMaddpd8r5UjWxbERovDzV9f993BLf1sF44/edit?usp=sharing](https://docs.google.com/document/d/1mRwNgx18xMaddpd8r5UjWxbERovDzV9f993BLf1sF44/edit?usp=sharing)
