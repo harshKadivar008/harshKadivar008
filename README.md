@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Kadivar</h1>
-<h3 align="center">A passionate Full Stack Software Developer with 2+ years of experience in Angular, React, and .NET
-  Core Web API.</h3>
+<h3 align="left">A passionate Full Stack Software Developer with 2+ years of experience in Angular, React, and .NET
+  Core.</h3>
 
 - 🌱 I’m currently learning **PHP, Advance React, AWS**
 
