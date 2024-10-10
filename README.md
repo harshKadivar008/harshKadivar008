@@ -2,9 +2,6 @@
 <h3 align="center">A passionate Full Stack Software Developer with 2+ years of experience in Angular, React, and .NET
   Core Web API.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-      src="https://github-profile-trophy.vercel.app/?username=harshkadivar008" alt="harshkadivar008" /></a> </p>
-
 - 🌱 I’m currently learning **PHP, Advance React, AWS**
 
 - 💬 Ask me about **angular, react and .net core**
@@ -14,9 +11,6 @@
 - 📄 Know about my experiences
 [https://docs.google.com/document/d/1mRwNgx18xMaddpd8r5UjWxbERovDzV9f993BLf1sF44/edit?usp=sharing](https://docs.google.com/document/d/1mRwNgx18xMaddpd8r5UjWxbERovDzV9f993BLf1sF44/edit?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img
