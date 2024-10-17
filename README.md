@@ -71,10 +71,4 @@
   </a>
 </p>
 
-<p><img align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=harshkadivar008&show_icons=true&locale=en&layout=compact"
-    alt="harshkadivar008" /></p>
 
-<p>&nbsp;<img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=harshkadivar008&show_icons=true&locale=en"
-    alt="harshkadivar008" /></p>
