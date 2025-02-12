@@ -2,7 +2,7 @@
 <h3 align="left">A passionate Full Stack Software Developer with 2+ years of experience in Angular, React, and .NET
   Core.</h3>
 
-- 🌱 I’m currently learning **PHP, Advance React, AWS**
+- 🌱 I’m currently learning **Advance Node, Advance Next, AWS**
 
 - 💬 Ask me about **angular, react and .net core**
 
